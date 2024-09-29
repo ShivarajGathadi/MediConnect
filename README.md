@@ -1,5 +1,6 @@
 # MediConnect
 
+![Screenshot 2024-09-29 173210](https://github.com/user-attachments/assets/7ca74c68-95d2-4301-85bd-7ad4f018a4e4)
 
 🧠 Brain Tumor Identification Using Image Segmentation: This model can precisely detect and localize brain cancers from medical imaging data by employing state-of-the-art image segmentation techniques.
 
