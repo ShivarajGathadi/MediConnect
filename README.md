@@ -10,3 +10,6 @@
 🩺 Finding Breast Cancer Employing SVM This model improves early diagnosis and treatment planning by precisely detecting and analyzing breast cancer trends by utilizing support vector machine (SVM) technology.
 
 🩸Diabetes Detection Using Ensemble Models: This technology allows for the accurate prediction of diabetes risk variables, supporting proactive management and prevention efforts. It does this by merging various predictive models into an ensemble.
+
+![Screenshot 2024-08-15 223239](https://github.com/user-attachments/assets/8eaa0ac5-a942-4843-bfb8-27184c2b8a32)
+
