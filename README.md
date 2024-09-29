@@ -1,6 +1,5 @@
 # MediConnect
 
-![Screenshot 2024-09-29 173150](https://github.com/user-attachments/assets/a415fe17-a3f5-4821-9205-96b1720dabba)
 
 🧠 Brain Tumor Identification Using Image Segmentation: This model can precisely detect and localize brain cancers from medical imaging data by employing state-of-the-art image segmentation techniques.
 
@@ -10,7 +9,7 @@
 
 🩸Diabetes Detection Using Ensemble Models: This technology allows for the accurate prediction of diabetes risk variables, supporting proactive management and prevention efforts. It does this by merging various predictive models into an ensemble.
 
-![Screenshot 2024-08-15 223239](https://github.com/user-attachments/assets/8eaa0ac5-a942-4843-bfb8-27184c2b8a32)
+![Screenshot 2024-09-29 173150](https://github.com/user-attachments/assets/a415fe17-a3f5-4821-9205-96b1720dabba)
 
 Additionally, MediConnect includes a dedicated medical assistant powered by Llama-3, our advanced AI chatbot. Llama-3 is meticulously tailored to offer personalized support to healthcare professionals, allowing them to input queries via voice commands and receive expert-level insights similar to those provided by a doctor. This AI-driven assistant enhances communication and collaboration among medical practitioners, facilitating efficient patient care.
 
